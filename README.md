@@ -1,4 +1,4 @@
-# persönlichde Daten
+# persönliche Daten
 
 **Fahad Hussein**
 
