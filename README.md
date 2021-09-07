@@ -1,8 +1,8 @@
 # persönlichde Daten
 
 **Fahad Hussein**
-**ich komme aus Syrien**
-ich wohne in HH
+
+**wohnhaft in HH**
 
 
 
