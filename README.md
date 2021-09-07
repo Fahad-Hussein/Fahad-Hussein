@@ -12,7 +12,7 @@
 # Hobbys
 _Fahrrad fahren_
 _Fußball schauen_
-Schwimmen
+_Schwimmen_
 
 
 # Beruf 
